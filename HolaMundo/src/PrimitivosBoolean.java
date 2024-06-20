@@ -17,4 +17,3 @@ public class PrimitivosBoolean {
         System.out.println("esIgual = " + esIgual);
     }
 }
-
